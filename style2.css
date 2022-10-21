@@ -1,0 +1,29 @@
+
+* {
+    
+    background-color: lightblue;
+
+}
+  h1 {
+    text-shadow:2px 2px red;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+   
+  }
+  
+  p {
+    text-align: center;
+    font-size: 15px;
+    margin: 25px;
+    padding: 50px;
+    border:5px red;
+    border-style: solid dotted dashed double;
+   
+  }
+  section{
+    text-align:left;
+    background-color: azure;
+    border: 10px dotted dashed solid double blue;
+
+  }
